@@ -1,1 +1,1 @@
-# myCMS
+# CMS (content management system).
