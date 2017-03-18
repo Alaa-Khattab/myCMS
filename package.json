@@ -36,6 +36,7 @@
     "shot": "^3.4.0",
     "tabe": "^1.0.4",
     "tape": "^4.6.3",
+    "throw-max-listeners-error": "^1.0.1",
     "vision": "^4.1.1"
   }
 }
